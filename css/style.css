@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+#navbar {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(43, 43, 153, 0.492);
+}
+.navbar-nav a{
+   margin: 0 5px;
+   text-decoration: none;
+   color: white;
+}
+
+.navbar-nav a:hover{
+    color: black;
+}
